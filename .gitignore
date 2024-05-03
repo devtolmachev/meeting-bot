@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Custom
+civil-zodiac-401705-642710337f9a.json
+
 # C extensions
 *.so
 
